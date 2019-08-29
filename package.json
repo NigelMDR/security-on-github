@@ -1,3 +1,7 @@
+"dependencies": {
+  "debug": ">=2.6.9"
+}
+
 {
   "name": "octocat-memory-game",
   "description": "Memory game with Octocats",
