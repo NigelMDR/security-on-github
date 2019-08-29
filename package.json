@@ -6,9 +6,6 @@
 "dependencies": {
   "debug": ">=2.6.9"
 }
-  "devDependencies": {
-    "eslint": "^3.8.1"
-  },
   "engines": {
     "npm": "2.15.0"
   },
